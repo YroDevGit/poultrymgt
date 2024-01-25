@@ -271,6 +271,7 @@ $pagename = "transactions";
       var data = document.getElementById('transtbl').innerHTML;
       mywindow.document.write('</head><body >');
       mywindow.document.write('<div align="center"><h1>Transaction</h1><h3>Garde poulty</h3>');
+  mywindow.document.write('<div><h6>Brgy MAMBAGATON HIMMAYLAN city negros occ</h6></div>')
       mywindow.document.write('</div>');
 
       mywindow.document.write(data);
