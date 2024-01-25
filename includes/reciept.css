@@ -1,0 +1,35 @@
+.cent{
+                  text-align: center;
+            }
+            .fticket{
+                  padding: 3px;
+            }
+            .prbtn{
+                  padding-top: 5px;
+                  padding-bottom: 5px;
+            }
+            .for-ticket{padding-top: 100px;}
+                  .tdd{
+                        text-align: left;
+                  }
+                  .padd{
+                        padding-top: 20px;
+                  }
+                  .rhead{
+                        padding-top: 5px;
+                        padding-bottom: 20px;
+                        text-align: center;
+                  }
+                  .rhead div span{font-size: 20px;}
+                  .ticket{
+                        border:solid 3px black;
+                        display: inline-block;
+                        width: auto;
+                        padding-top: 15px;
+                        padding-bottom: 15px;
+                        padding-left: 15px;
+                        padding-right: 15px;
+                  }
+                  .rtable{
+                        width: 450px;
+                  }
