@@ -275,7 +275,7 @@ $pagename = "transactions";
       mywindow.document.write('</div>');
 
       mywindow.document.write(data);
-      mywindow.document.write('<div align="center"><h5>Invoice maker:'+name+'</h5>');
+      mywindow.document.write('<div align="center"><div style="border-bottom:solid 1px white; width:300px;color:white; font-size:18px;">'+name+'</div><h5>Signature over printed name</h5>');
       mywindow.document.write('</div>');
       mywindow.document.write('</body></html>');
       mywindow.document.close();
