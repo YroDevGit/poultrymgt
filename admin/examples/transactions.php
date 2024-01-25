@@ -270,7 +270,7 @@ $pagename = "transactions";
       mywindow.document.write('<link rel="stylesheet" href="../assets/css/black-dashboard.css" type="text/css" />');
       var data = document.getElementById('transtbl').innerHTML;
       mywindow.document.write('</head><body >');
-      mywindow.document.write('<div align="center"><h1>Transaction</h1><h3>Garde poulty</h3><h5>Official receipt</h5>');
+      mywindow.document.write('<div align="center"><h1>Transaction</h1><h3>Garde poulty</h3>');
       mywindow.document.write('</div>');
 
       mywindow.document.write(data);
